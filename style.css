@@ -1,0 +1,49 @@
+*
+{
+
+font-family:'Segoe UI', Tahoma, Geneva, Verdana;
+/* margin:; */
+}
+
+
+
+
+#section-1 {
+    
+border: 2px solid ;
+padding:20px;
+}
+
+.heading
+{
+text-decoration: underline;
+
+}
+
+
+
+#beagle
+{
+font-weight: bold;
+font-style: italic;
+}
+
+#read-more
+
+{
+color: black;
+
+}
+
+#img
+{
+text-decoration: underline;
+
+}
+
+.trivia{
+
+text-decoration-line:underline;
+
+
+}
